@@ -1,0 +1,23 @@
+# Environment Files
+.env
+.env.local
+.env.*.local
+
+# Node Modules
+node_modules/
+
+# Build Files
+dist/
+build/
+
+# Cache
+.cache/
+.nyc_output/
+coverage/
+
+# Temporary files
+*.lock
+*.log
+.DS_Store
+.idea/
+.vscode/

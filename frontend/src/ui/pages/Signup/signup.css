@@ -1,0 +1,21 @@
+.form_container {
+    background-color: black;
+    padding-top: 10rem;
+    color: white;
+    padding-bottom: 3rem;
+}
+
+Label {
+    font-family: "Fenomen";
+    font-size: 1rem;
+}
+
+.form_container h1 {
+    font-family: "ravana";
+    color: white;
+}
+
+.form-check-input:checked {
+    background-color: #E12627;
+    border-color: #E12627;
+}
